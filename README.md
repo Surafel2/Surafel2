@@ -1,5 +1,4 @@
 ## Hi there, I`m Surafel 👋
-### Hi there 👋, Surafel
 #### Web development
 ![Web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
