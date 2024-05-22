@@ -1,15 +1,5 @@
 ## Hi there, I`m Surafel 👋
-#### Web development
-![Web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm an indie Front End developer . All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
-
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-### Hi there 👋, Surafel
 #### Web development
 ![Web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
