@@ -1,6 +1,7 @@
 ## Hi there, I`m Surafel 👋
 
 #### Web development
+https://github.com/Surafel2/Surafel2/blob/main/photo_sura.jpg
 ![Web development]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Surafel2/Surafel2/blob/main/photo_sura.jpg)
 
 I'm an indie Front End developer . All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
